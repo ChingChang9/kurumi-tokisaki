@@ -1,0 +1,16 @@
+{
+  "name": "kurumi-tokisaki",
+  "version": "1.0.0",
+  "description": "Good morning. Say it back!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Ching Chang",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^12.4.1",
+    "image-size": "^0.9.3"
+  }
+}
