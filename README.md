@@ -6,4 +6,4 @@ An open source Discord bot that sends pictures of waifus holding guns.
 - This project is still in development, so there might be bugs. If you find one, please don't hesitate to [open an issue on github](https://github.com/ChingChang9/kurumi-tokisaki/issues/new).
 
 ## Contributing
-Have pictures you'd like to add to the database? Texts aren't positioning correctly? Feel free to [add/fix them yourself](https://github.com/ChingChang9/kurumi-tokisaki/blob/master/CONTRIBUTING.md)!
+Have pictures you'd like to add to the database? Texts aren't positioning correctly? Feel free to [add/fix them yourself](https://github.com/ChingChang9/kurumi-tokisaki/blob/main/CONTRIBUTING.md)!

@@ -1,6 +1,6 @@
 {
   "name": "kurumi-tokisaki",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Good morning. Say it back!",
   "main": "index.js",
   "scripts": {
